@@ -91,27 +91,28 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Online-Election-System&theme=radical" alt="Online-Election-System">
   </a>
 </div>
-<br>
+<br><br>
 
 ## GitHub Stats Card
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishwajitPatil0822&show_icons=true&theme=radical" width="500" alt="Vishwajit's GitHub Stats" />
-</div><br>
-
+</div>
+<br><br>
 
 ## Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajitPatil0822&layout=compact&theme=radical"  width="450" alt="Top Languages" />
-</div><br>
-
+</div>
+<br><br>
 
 ## GitHub Streak Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=VishwajitPatil0822&theme=radical" width="500" alt="GitHub Streak" />
-</div><br>
-
+</div>
+<br><br>
 
 ## GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwajitPatil0822&theme=github" alt="GitHub Activity Graph" />
-</div><br>
+</div>
+<br><br>
