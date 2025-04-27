@@ -74,6 +74,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Online-Python-Compiler&theme=radical" alt="Online-Python-Compiler">
   </a>
 </div>
+<br><br>
 
 ## Most Populer Repositories:
 <div align="center">
@@ -89,7 +90,8 @@
     <a href="https://github.com/VishwajitPatil0822/Online-Election-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Online-Election-System&theme=radical" alt="Online-Election-System">
   </a>
-</div><br>
+</div>
+<br>
 
 ## GitHub Stats Card
 <div align="center">
