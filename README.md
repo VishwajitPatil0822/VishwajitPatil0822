@@ -65,6 +65,16 @@
   <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
 </p><br>
 
+## Live Projects:
+<div align="center">
+  <a href="https://vishwajit-patil-portfolio.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Portfolio-Website&theme=radical" alt="Portfolio-Website">
+  </a>
+  <a href="https://online-python-compiler-liard.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Online-Python-Compiler&theme=radical" alt="Online-Python-Compiler">
+  </a>
+</div>
+
 ## Most Populer Repositories:
 <div align="center">
   <a href="https://github.com/VishwajitPatil0822/Portfolio-Website">
