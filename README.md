@@ -108,6 +108,7 @@
 ## GitHub Streak Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=VishwajitPatil0822&theme=radical" width="500" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=VishwajitPatil0822&theme=radical" width="500" alt="GitHub Streak" />
 </div>
 <br><br>
 
