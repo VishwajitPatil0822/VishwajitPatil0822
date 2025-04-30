@@ -84,8 +84,8 @@
   <a href="https://github.com/VishwajitPatil0822/Online-Python-Compiler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Online-Python-Compiler&theme=radical" alt="Online-Python-Compiler">
   </a>
-  <a href="https://github.com/VishwajitPatil0822/online-learning-management-portal">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=online-learning-management-portal&theme=radical" alt="online-learning-management-portal">
+  <a href="https://github.com/VishwajitPatil0822/Online-Learning-Management-Portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Online-Learning-Management-Portal&theme=radical" alt="Online-Learning-Management-Portal">
   </a>
   <a href="https://github.com/VishwajitPatil0822/Online-Election-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishwajitPatil0822&repo=Online-Election-System&theme=radical" alt="Online-Election-System">
